@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome to Nopol's hideout 👋
+
+I love making stuff work, here are some of my interesting projects you might want to check out:
+
+- 🐱 [NekoCap](https://github.com/nopol10/nekocap) - Open source community captioning extension + website with support for ASS subtitles
+- 🎥 [Alpha Movie](https://github.com/nopol10/alpha-movie) - Transparent video rendering library for displaying high quality alpha-packed transparent videos on native Android apps
 
 <!--
 **nopol10/nopol10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
