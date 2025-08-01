@@ -2,7 +2,7 @@
 
 I love making stuff work, here are some of my interesting projects you might want to check out:
 
-- 🐱 [NekoCap](https://github.com/nopol10/nekocap) - Open source community captioning extension + website with support for ASS subtitles
+- 🐱 [NekoCap](https://github.com/nopol10/nekocap) ([Website](https://nekocap.com)) - Open source community captioning extension + website with support for ASS subtitles
 - 🎥 [Alpha Movie](https://github.com/nopol10/alpha-movie) - Transparent video rendering library for displaying high quality alpha-packed transparent videos on native Android apps
 
 <!--
